@@ -310,7 +310,6 @@ textarea.input{resize:none;height:254px;overflow:hidden;padding:14px 12px}.input
 .modal-youtube__close,.modal__close{position:absolute;width:40px;height:40px;top:20px;right:20px;border-radius:50%;font-size:0;cursor:pointer;color:transparent;padding:0;stroke:#0ff}
 .modal-youtube__close:hover,.modal__close:hover{stroke:#fff}.modal-youtube__close:focus,.modal__close:focus{outline:0}
 .modal__content{padding:20px}.modal__header{text-align:center;font-size:28px;font-weight:bold;line-height:24px}
-.modal-youtube iframe{width:840px;height:742.5px;border:0;display:block}@media(max-width:1200px){.hidden-lg{display:none !important}
 .header__wrap{padding:0 5px}.header__logo{margin-left:5px}.header__right{margin-left:auto}
 .swiper-container__left,.swiper-container__right{margin-right:10px}.first-screen__cell-onepager{top:353px;right:13px}
 .first-screen__cell-video{top:352px;right:195px}.how-works__item--5{top:132px;left:880px;max-width:100px}
