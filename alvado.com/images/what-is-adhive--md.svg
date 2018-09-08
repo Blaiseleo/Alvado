@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="397px" viewBox="0 0 201 397" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>octogons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="13.9885287%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FF8900" offset="0%"></stop>
+            <stop stop-color="#F00356" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Background-Copy-3" transform="translate(-5620.000000, -2334.000000)">
+            <g id="octogons" transform="translate(5620.000000, 2334.000000)">
+                <path d="M66.204236,248.664293 L1.84871407,285.464382 L1.84871407,359.047964 L66.204236,395.848052 L130.559758,359.047964 L130.559758,285.464382 L66.204236,248.664293 Z" id="Polygon-Copy-92" stroke="url(#linearGradient-1)" stroke-width="2" opacity="0.5"></path>
+                <polygon id="Polygon-Copy-95" fill-opacity="0.100000001" fill="#00FFFF" points="66.204236 0 131.559758 37.3719136 131.559758 112.115741 66.204236 149.487654 0.84871407 112.115741 0.84871407 37.3719136"></polygon>
+                <path d="M135.644478,129.515912 L75.2889561,164.028701 L75.2889561,232.971299 L135.644478,267.484088 L196,232.971299 L196,164.028701 L135.644478,129.515912 Z" id="Polygon-Copy-96" stroke="#00FFFF" stroke-width="10" opacity="0.200000018"></path>
+            </g>
+        </g>
+    </g>
+</svg>

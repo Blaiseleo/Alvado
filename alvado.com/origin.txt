@@ -1,0 +1,836 @@
+Uri: https://adhive.tv/
+File Name: c:\Downloaded Web Sites\adhive.tv\index.html
+Content Type: text/html
+
+Uri: https://adhive.tv/favicon.png
+File Name: c:\Downloaded Web Sites\adhive.tv\favicon.png
+Content Type: image/png
+
+Uri: https://adhive.tv/manifest.json
+File Name: c:\Downloaded Web Sites\adhive.tv\manifest.json
+Content Type: application/json
+
+Uri: https://adhive.tv/assets/css/styles.css?v=26
+File Name: c:\Downloaded Web Sites\adhive.tv\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://adhive.tv/?lang=en
+File Name: c:\Downloaded Web Sites\adhive.tv\index-1.html
+Content Type: text/html
+
+Uri: https://adhive.tv/?lang=ru
+File Name: c:\Downloaded Web Sites\adhive.tv\index-2.html
+Content Type: text/html
+
+Uri: https://adhive.tv/?lang=ch
+File Name: c:\Downloaded Web Sites\adhive.tv\index-3.html
+Content Type: text/html
+
+Uri: https://adhive.tv/?lang=kr
+File Name: c:\Downloaded Web Sites\adhive.tv\index-4.html
+Content Type: text/html
+
+Uri: https://adhive.tv/?lang=jp
+File Name: c:\Downloaded Web Sites\adhive.tv\index-5.html
+Content Type: text/html
+
+Uri: https://adhive.tv/docs/AdHive_Whitepaper.pdf?v=1
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Whitepaper.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/Adhive_market_summary.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\Adhive_market_summary.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/Adhive_market_summary.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\Adhive_market_summary.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Whitepaper.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Whitepaper-1.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Whitepaper_RU.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Whitepaper_RU.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Whitepaper_CN.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Whitepaper_CN.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Whitepaper_KO.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Whitepaper_KO.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Whitepaper_JA.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Whitepaper_JA.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_RU.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_RU.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_JA.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_JA.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_KO.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_KO.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_CN.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_CN.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_PI.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_PI.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_FR.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_FR.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_ID.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_ID.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_IT.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_IT.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_PT.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_PT.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_SP.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_SP.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_OnePager_VI.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_OnePager_VI.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_RU.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_RU.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_JA.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_JA.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_KO.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_KO.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_CN.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_CN.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_PI.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_PI.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_FR.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_FR.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_ID.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_ID.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_IT.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_IT.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_PT.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_PT.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_SP.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_SP.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/docs/AdHive_Prospectus_VI.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\docs\AdHive_Prospectus_VI.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/img/PrivacyPolicy.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\img\PrivacyPolicy.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/img/ADHSaleTermsAndConditions.pdf
+File Name: c:\Downloaded Web Sites\adhive.tv\img\ADHSaleTermsAndConditions.pdf
+Content Type: application/pdf
+
+Uri: https://adhive.tv/assets/js/slick.min.js
+File Name: c:\Downloaded Web Sites\adhive.tv\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://adhive.tv/assets/js/cookie.js?v=26
+File Name: c:\Downloaded Web Sites\adhive.tv\assets\js\cookie.js
+Content Type: application/javascript
+
+Uri: https://adhive.tv/assets/js/scripts.js?v=26
+File Name: c:\Downloaded Web Sites\adhive.tv\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://adhive.tv/assets/js/lang.js?v=26
+File Name: c:\Downloaded Web Sites\adhive.tv\assets\js\lang.js
+Content Type: application/javascript
+
+Uri: https://adhive.tv/assets/js/intlTelInput.min.js?v=26
+File Name: c:\Downloaded Web Sites\adhive.tv\assets\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://adhive.tv/assets/js/phone.js?v=26
+File Name: c:\Downloaded Web Sites\adhive.tv\assets\js\phone.js
+Content Type: application/javascript
+
+Uri: https://adhive.tv/assets/js/mobile-scale.js?v=26
+File Name: c:\Downloaded Web Sites\adhive.tv\assets\js\mobile-scale.js
+Content Type: application/javascript
+
+Uri: https://adhive.tv/img/media/v2/img-vb.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-vb.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-inc.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-inc.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-сoinspeaker.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-сoinspeaker.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-hacket.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-hacket.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-entrepreneur.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-entrepreneur.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-me.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-me.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-cryptoninjas.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-cryptoninjas.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-bitcoinist.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-bitcoinist.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-crypto-currency.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-crypto-currency.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-coin-idol.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-coin-idol.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-token-desk.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-token-desk.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-crypto-economy.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-crypto-economy.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-cryptocoin.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-cryptocoin.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-news-btc.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-news-btc.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/conference/img-summit.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-summit.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-summit.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-summit.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-future.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-future.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-future.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-future.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-blockchain.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-blockchain.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-blockchain.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-blockchain.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-cryptoeven.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-cryptoeven.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-cryptoeven.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-cryptoeven.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-tokyo.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-tokyo.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-tokyo.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-tokyo.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-seoul.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-seoul.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-seoul.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-seoul.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-moscow.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-moscow.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-moscow.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-moscow.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-singapore.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-singapore.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-singapore.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-singapore.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-lasvegas.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-lasvegas.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-lasvegas.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-lasvegas.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-telaviv.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-telaviv.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-telaviv.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-telaviv.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-barca.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-barca.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-barca.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-barca.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-mumbai.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-mumbai.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-india.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-india.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/conference/img-shanghai.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\img-shanghai.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/photo-shanhai.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\photo-shanhai.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/partners/img-wings.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\partners\img-wings.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/partners/img-adex.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\partners\img-adex.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/partners/img-bancor.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\partners\img-bancor.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/partners/img-hitbtc.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\partners\img-hitbtc.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/fonts/HelveticaRegular/HelveticaRegular.woff
+File Name: c:\Downloaded Web Sites\adhive.tv\fonts\HelveticaRegular\HelveticaRegular.woff
+Content Type: application/x-font-woff
+
+Uri: https://adhive.tv/fonts/HelveticaRegular/HelveticaRegular.ttf
+File Name: c:\Downloaded Web Sites\adhive.tv\fonts\HelveticaRegular\HelveticaRegular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://adhive.tv/fonts/HelveticaBold/HelveticaBold.woff
+File Name: c:\Downloaded Web Sites\adhive.tv\fonts\HelveticaBold\HelveticaBold.woff
+Content Type: application/x-font-woff
+
+Uri: https://adhive.tv/fonts/HelveticaBold/HelveticaBold.ttf
+File Name: c:\Downloaded Web Sites\adhive.tv\fonts\HelveticaBold\HelveticaBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://adhive.tv/fonts/HelveticaBlack/HelveticaBlack.woff
+File Name: c:\Downloaded Web Sites\adhive.tv\fonts\HelveticaBlack\HelveticaBlack.woff
+Content Type: application/x-font-woff
+
+Uri: https://adhive.tv/fonts/HelveticaBlack/HelveticaBlack.ttf
+File Name: c:\Downloaded Web Sites\adhive.tv\fonts\HelveticaBlack\HelveticaBlack.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://adhive.tv/fonts/monaco.ttf
+File Name: c:\Downloaded Web Sites\adhive.tv\fonts\monaco.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://adhive.tv/images/swiper-container__btn.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\swiper-container__btn.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/swiper-container__arrow.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\swiper-container__arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/bg1.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\bg1.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/bg2.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\bg2.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/parallax-1.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\parallax-1.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/parallax-2.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\parallax-2.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/parallax-3.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\parallax-3.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/parallax-4.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\parallax-4.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/parallax-5.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\parallax-5.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/parallax-6.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\parallax-6.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/img-line@2x.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\img-line@2x.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/what-is-adhive.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\what-is-adhive.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/what-is-adhive__play.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\what-is-adhive__play.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/how-works1.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\how-works1.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/token-core-text1.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core-text1.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/token-core-text2.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core-text2.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/token-core-text3.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core-text3.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/token-core-text4.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core-text4.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/token-core1.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core1.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/token-core2.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core2.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/token-core3.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core3.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/token-core-new.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core-new.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/roadmap.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\roadmap.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/distribution.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\distribution.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/technological-disruption__quotes.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\technological-disruption__quotes.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flag_brazil.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flag_brazil.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flags/icon-flag-us.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-us.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flags/icon-flag-sin.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-sin.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-ge.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-ge.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flag_bulgaria.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flag_bulgaria.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flag_usa.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flag_usa.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flag_europe.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flag_europe.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flag_israel.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flag_israel.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flag_vietnam.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flag_vietnam.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flag_austria.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flag_austria.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flags/icon-flag-ru.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-ru.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-hk.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-hk.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/bg--md.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\bg--md.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/img-line-vertical@2x.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\img-line-vertical@2x.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/what-is-adhive--md.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\what-is-adhive--md.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/distribution--md.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\distribution--md.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/token-core1@2x.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core1@2x.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/token-core2@2x.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core2@2x.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/token-core3@2x.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core3@2x.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/token-core-new@2x.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\token-core-new@2x.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flags/icon-flag-ch.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-ch.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-en.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-en.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-jap.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-jap.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-kor.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-kor.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-es.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-es.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-fr.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-fr.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-id.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-id.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-it.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-it.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-ph.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-ph.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-pt.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-pt.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags/icon-flag-vn.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags\icon-flag-vn.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/conference/icon-place.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\icon-place.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/conference/icon-close.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\conference\icon-close.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/flags.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags.png
+Content Type: image/png
+
+Uri: https://adhive.tv/images/flags@2x.png
+File Name: c:\Downloaded Web Sites\adhive.tv\images\flags@2x.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/rating/ico-wiser.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\ico-wiser.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/ico-wiser-name.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\ico-wiser-name.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/icobranch.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\icobranch.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/icobench-name.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\icobench-name.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/rating/ico-marks.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\ico-marks.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/icomarks-name.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\icomarks-name.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/iconfoxico-name.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\iconfoxico-name.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/iconfoxico.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\iconfoxico.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/icorating.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\icorating.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/icorating-name.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\icorating-name.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/rating/icotop.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\icotop.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/icotop-name.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\icotop-name.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/ico-crunch.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\ico-crunch.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/ico-crunch-name.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\ico-crunch-name.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/rating/ico-list-name.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\rating\ico-list-name.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/icon-quest.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\icon-quest.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/icon-linked-in.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\icon-linked-in.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/img-left-arrow.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\img-left-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/img-right-arrow.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\img-right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/img-arrow-left.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\img-arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/img-arrow-right.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\img-arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-download.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-download.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-download-a.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-download-a.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-presale.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-presale.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-hard.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-hard.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-people.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-people.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-white.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-white.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-bonus.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-bonus.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-times.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-times.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-supply.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-supply.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-protect.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-protect.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/info/icon-medium.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\info\icon-medium.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/promo/icon-telegram.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\promo\icon-telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/promo/icon-qrypos.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\promo\icon-qrypos.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/promo/icon-hitbtc.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\promo\icon-hitbtc.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/promo/img-bg-telegram.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\promo\img-bg-telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/promo/img-bg-telegram-a.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\promo\img-bg-telegram-a.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/promo/img-bg-default.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\promo\img-bg-default.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/promo/img-bg-default-a.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\promo\img-bg-default-a.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-insiderpro.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-insiderpro.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-adindex.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-adindex.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-advertology.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-advertology.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/images/icon-wechat.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\images\icon-wechat.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/weechat_qr.jpg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\weechat_qr.jpeg
+Content Type: image/jpeg
+
+Uri: https://adhive.tv/img/media/v2/img-sina.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-sina.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/weechat_qr.png
+File Name: c:\Downloaded Web Sites\adhive.tv\img\weechat_qr.png
+Content Type: image/png
+
+Uri: https://adhive.tv/img/media/v2/img-coinvedi.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-coinvedi.svg
+Content Type: image/svg+xml
+
+Uri: https://adhive.tv/img/media/v2/img-yonhap.svg
+File Name: c:\Downloaded Web Sites\adhive.tv\img\media\v2\img-yonhap.svg
+Content Type: image/svg+xml
+
