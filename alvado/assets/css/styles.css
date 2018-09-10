@@ -1,4 +1,4 @@
-﻿@font-face{font-family:"Helvetica Web";src:url("../../fonts/HelveticaRegular/HelveticaRegular.woff") format("woff"),url("../../fonts/HelveticaRegular/HelveticaRegular.ttf") format("truetype");font-style:normal;font-weight:normal}
+@font-face{font-family:"Helvetica Web";src:url("../../fonts/HelveticaRegular/HelveticaRegular.woff") format("woff"),url("../../fonts/HelveticaRegular/HelveticaRegular.ttf") format("truetype");font-style:normal;font-weight:normal}
 @font-face{font-family:"Helvetica Web";src:url("../../fonts/HelveticaBold/HelveticaBold.woff") format("woff"),url("../../fonts/HelveticaBold/HelveticaBold.ttf") format("truetype");font-style:normal;font-weight:700}
 @font-face{font-family:"Helvetica Web";src:url("../../fonts/HelveticaBlack/HelveticaBlack.woff") format("woff"),url("../../fonts/HelveticaBlack/HelveticaBlack.ttf") format("truetype");font-style:normal;font-weight:900}
 @font-face{font-family:"Monaco";src:url("../../fonts/monaco.ttf") format("truetype");font-style:normal;font-weight:normal}
@@ -247,7 +247,7 @@ textarea.input{resize:none;height:254px;overflow:hidden;padding:14px 12px}.input
 .roadmap__quarter:nth-of-type(1){left:65px;top:155px}.roadmap__quarter:nth-of-type(2){left:130px;top:290px}
 .roadmap__quarter:nth-of-type(3){left:200px;top:420px}.roadmap__quarter:nth-of-type(4){left:265px;top:550px}
 .distribution{padding-top:118px}.distribution .h2{max-width:680px;margin-bottom:70px}
-.distribution__list{height:596px;position:relative;background-image:url(../../images/distribution.svg);background-repeat:no-repeat;background-position:center 25px}
+.distribution__list{height:596px;position:relative;background-image:url(../../images/749.jpg);background-repeat:no-repeat;background-position:center 25px}
 .distribution__item{padding:50px 0;position:absolute;left:0;top:0}.distribution__item:nth-child(n+4){left:918px;width:140px}
 .distribution__item--2{top:138px}.distribution__item--3{top:310px}.distribution__item--4{top:430px}
 .distribution__item--5{top:-4px}.distribution__item--6{top:137px}.distribution__item--7{top:270px}
